@@ -1,0 +1,10 @@
+.env
+.env.*
+perfil/
+*.sqlite
+*.db
+logs/
+screenshots/
+.venv/
+__pycache__/
+chrome_profile/
